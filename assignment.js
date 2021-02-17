@@ -74,3 +74,7 @@ function smallFriend(names){
 var names = ["Humaion", "Kobir", "Maksuda", "Hridiya", "Arif"]
 var result = smallFriend (names);
 console.log (result);
+
+
+
+                //coding done
