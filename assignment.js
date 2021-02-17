@@ -60,7 +60,7 @@ var countBrick = BrickCalculator (12);
 console.log (countBrick);
 
 
-        //word-4
+        //work-4
 function smallFriend(names){
      var smallest = names[0];
      for (var i = 0; i< names.length; i++){
